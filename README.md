@@ -1,3 +1,3 @@
-# Library1
-基于Android studio和java语言开发的图书管理系统
+# Digital_library
+基于Android studio和java语言开发的图书管理系统。
 
